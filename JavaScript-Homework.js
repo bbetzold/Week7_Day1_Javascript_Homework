@@ -141,5 +141,5 @@ function get_count(sentence){
 }
 
 string1 = "abracadabra"
-console.log(`Input [${string1}]`)
+console.log(`Input "${string1}"`)
 console.log(`Output ${get_count(string1)}`)
